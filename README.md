@@ -1,1 +1,2 @@
-# codespaces-openvpn
+# Using the OpenVPN client from Codespaces
+
